@@ -8,3 +8,7 @@
 需求：当接收到的相同 key 的元素个数等于 3 个或者超过 3 个的时候
 就计算这些元素的 value 的平均值。
 计算 keyed stream 中每 3 个元素的 value 的平均值
+
+
+TimeWindowWordCount
+每隔 5 秒钟统计前 10 秒内每个单词出现的次数
