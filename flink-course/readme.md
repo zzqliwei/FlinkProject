@@ -12,3 +12,6 @@
 
 TimeWindowWordCount
 每隔 5 秒钟统计前 10 秒内每个单词出现的次数
+
+TimeWindow
+GlobalWindow
